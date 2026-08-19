@@ -76,7 +76,9 @@ Yummy-nouilles/
 
 Voici la maquette du projet réalisée sur Figma :
 
-Maquette Yummy Nouilles
+| Version Desktop | Version Mobile |
+|-----------------|----------------|
+| ![Desktop](maquette-desktop.png) | ![Mobile](maquette-mobile.png) |
 
 
 👤 Auteur
