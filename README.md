@@ -1,5 +1,7 @@
 # 🍜 Yummy Nouilles
 
+🌐 **Voir le site en ligne** : [ https://m-bu-y.github.io/yummy-nouilles/]( https://m-bu-y.github.io/yummy-nouilles/)
+
 Site vitrine statique pour un restaurant de nouilles fictif.  
 Projet réalisé dans le cadre de ma formation **Développeur Web** chez OpenClassrooms.
 
