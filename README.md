@@ -38,32 +38,32 @@ Aperçu de la maquette Yummy Nouilles !
 ---
 
 ## 📁 Structure du projet
+
 Yummy-nouilles/
 │
 ├── index.html # Page d'accueil
 ├── menu.html # Page du menu
 ├── contact.html # Page de contact
-└── assets/# Dossier principal des icônes, images et logo
-    └──  Dossier icons
-          └── Fichier  icône facebook 
-          └── Fichier  icône instagram 
-          └── Fichier  icône position 
-    └──  Dossier images 
-          └── Dossier restaurant
-          └── DOssier social
-          └── Logo
+│
+├── assets/ # Dossier principal des ressources
+│ ├── icons/ # Icônes (Facebook, Instagram, position)
+│ ├── images/ # Images du restaurant
+│ │ ├── restaurant/ # Photos du lieu
+│ │ └── social/ # Images pour les réseaux sociaux
+│ └── logo.svg # Logo du site
+│
 └── styles/ # Dossier des feuilles de style
-     └── main.css/# Fichier CSS principal
-     └── Dossier modules
-          └── Fichier appBar.css 
-          └── Fichier contactInfo.css 
-          └── Fichier cta.css 
-          └── Fichier footer.css 
-          └── Fichier RedBanner.css 
-     └── Dossier pages
-          └── Fichier contact.css 
-          └── Fichier homme.css 
-          └── Fichier menu.css
+├── main.css # Fichier CSS principal (imports)
+├── modules/ # Composants réutilisables
+│ ├── appBar.css # Barre de navigation
+│ ├── cta.css # Boutons d'appel à l'action
+│ ├── footer.css # Pied de page
+│ ├── RedBanner.css # Bandeau rouge promotionnel
+│ └── contactInfo.css # Informations de contact
+└── pages/ # Styles spécifiques aux pages
+├── home.css # Page d'accueil
+├── menu.css # Page du menu
+└── contact.css # Page de contact
 
 ---
 
