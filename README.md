@@ -74,7 +74,9 @@ Yummy-nouilles/
 
 ## 🎨 Maquette Figma
 
-Voici la maquette du projet réalisée sur Figma :
+La maquette du site a été entièrement conçue sur Figma avant l'intégration HTML/CSS.
+
+![Aperçu de la maquette Yummy Nouilles]
 
 | Version Desktop | Version Mobile |
 |-----------------|----------------|
