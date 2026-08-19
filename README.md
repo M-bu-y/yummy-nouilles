@@ -80,6 +80,8 @@ Voici la maquette du projet réalisée sur Figma :
 |-----------------|----------------|
 | ![Desktop](maquette-desktop.png) | ![Mobile](maquette-mobile.png) |
 
+🔗 **Lien vers la maquette interactive** : [Cliquez ici pour voir la maquette Figma](https://www.figma.com/design/iYRNj5W68V38gQuY64thcv/Maquette-Yummy-Nouilles?node-id=2-2&t=NvzgxcxjmUQOG9wt-1)
+
 
 👤 Auteur
 
