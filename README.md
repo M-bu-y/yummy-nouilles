@@ -9,11 +9,23 @@ Projet réalisé dans le cadre de ma formation **Développeur Web** chez OpenCla
 
 ## 🖥️ Aperçu du projet
 
-- **Page d'accueil** : Présentation du restaurant, carte des nouilles, et avis clients.
+- **Page d'accueil** : Présentation du restaurant, carte des nouilles.
 - **Menu** : Liste détaillée des plats.
 - **Contact** : Formulaire de contact et coordonnées (adresse, téléphone).
 
 ---
+
+## 🎨 Maquette Figma
+
+La maquette du site a été entièrement conçue sur Figma avant l'intégration HTML/CSS.
+
+
+Aperçu de la maquette Yummy Nouilles !
+
+| Version Desktop | Version Mobile |
+|-----------------|----------------|
+| ![Desktop](maquette-desktop.png) | ![Mobile](maquette-mobile.png) |
+
 
 ## 🛠️ Technologies utilisées
 
@@ -74,16 +86,6 @@ Yummy-nouilles/
 
     Découvrir le versionnement avec Git et GitHub.
 
-## 🎨 Maquette Figma
-
-La maquette du site a été entièrement conçue sur Figma avant l'intégration HTML/CSS.
-
-
-Aperçu de la maquette Yummy Nouilles !
-
-| Version Desktop | Version Mobile |
-|-----------------|----------------|
-| ![Desktop](maquette-desktop.png) | ![Mobile](maquette-mobile.png) |
 
 🔗 **Consulter la maquette interactive** : [Cliquez ici pour voir la maquette Figma](https://www.figma.com/design/iYRNj5W68V38gQuY64thcv/Maquette-Yummy-Nouilles?node-id=2-2&t=NvzgxcxjmUQOG9wt-1)
 
