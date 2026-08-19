@@ -72,7 +72,11 @@ Yummy-nouilles/
 
     Découvrir le versionnement avec Git et GitHub.
 
+## 🎨 Maquette Figma
 
+Voici la maquette du projet réalisée sur Figma :
+
+Maquette Yummy Nouilles
 
 
 👤 Auteur
