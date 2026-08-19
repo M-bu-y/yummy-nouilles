@@ -76,13 +76,14 @@ Yummy-nouilles/
 
 La maquette du site a été entièrement conçue sur Figma avant l'intégration HTML/CSS.
 
-![Aperçu de la maquette Yummy Nouilles]
+
+Aperçu de la maquette Yummy Nouilles !
 
 | Version Desktop | Version Mobile |
 |-----------------|----------------|
 | ![Desktop](maquette-desktop.png) | ![Mobile](maquette-mobile.png) |
 
-🔗 **Lien vers la maquette interactive** : [Cliquez ici pour voir la maquette Figma](https://www.figma.com/design/iYRNj5W68V38gQuY64thcv/Maquette-Yummy-Nouilles?node-id=2-2&t=NvzgxcxjmUQOG9wt-1)
+🔗 **Consulter la maquette interactive** : [Cliquez ici pour voir la maquette Figma](https://www.figma.com/design/iYRNj5W68V38gQuY64thcv/Maquette-Yummy-Nouilles?node-id=2-2&t=NvzgxcxjmUQOG9wt-1)
 
 
 👤 Auteur
