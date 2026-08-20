@@ -93,7 +93,7 @@ Yummy-nouilles/
 👤 Auteur
 
 M-bu-y
-GitHub : https://github.com/M-bu-y | LinkedIn :  https://linkedin.com/in/emmanuel-m-bamanya-a41b16394
+GitHub : https://github.com/M-bu-y | LinkedIn :  https://www.linkedin.com/in/emmanuel-mbuyi
 
 ⭐ Site réalisé dans un cadre pédagogique - Toute ressemblance avec un restaurant existant serait purement fortuite.
 
